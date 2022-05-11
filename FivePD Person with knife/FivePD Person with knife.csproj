@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
     <RootNamespace>FivePD_Person_with_knife</RootNamespace>
-    <AssemblyName>PersonWithKnife-ENGLISH-1.0.net</AssemblyName>
+    <AssemblyName>PersonWithKnife-ENGLISH-0.1.0.net</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
